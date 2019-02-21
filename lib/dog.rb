@@ -1,3 +1,4 @@
 class Dog 
-  define bark = "ruff ruff"
+  define bark 
+    puts 
 end 
