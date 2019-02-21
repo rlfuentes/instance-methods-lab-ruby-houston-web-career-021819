@@ -1,4 +1,4 @@
 class Dog 
-  define bark 
+  def bark 
     puts 
 end 
